@@ -27,5 +27,6 @@ func main() {
 
 /*
 =>  array is a collection of data elements of the same type can access each element by an index. fixed size
+=> Due to Go being a pass by value language, modifying a normal array parameter won’t create permanent change Sometimes this can be useful in performing local calculations.
 
 */
